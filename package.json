@@ -1,0 +1,24 @@
+{
+  "name": "react-activity",
+  "version": "0.0.1",
+  "description": "SVG component to show a daily activity",
+  "main": "react-activity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicholasspencer/react-activity.git"
+  },
+  "keywords": [
+    "react-component",
+    "daily activity"
+  ],
+  "private":"true",
+  "author": "@nicholasspencer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholasspencer/react-activity/issues"
+  },
+  "homepage": "https://github.com/nicholasspencer/react-activity"
+}
